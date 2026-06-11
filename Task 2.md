@@ -35,7 +35,7 @@ Accept: application/json
 "name": "ВИКТОРИЯ",
 "image": "https://petrushka_green.com/image/Viktoria.png",
 "status": "Ближайшая доставка сегодня 17:00-19:00",
-"link": "https:// Viktoria.com"
-},
+"link": "https://Viktoria.com"
+}
 ]
 }
